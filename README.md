@@ -65,11 +65,17 @@
 
 ------
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
+
 <p align="">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gabriela359&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gabriela359&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/Gabriela359">
+    <!-- Contenedor para las imágenes -->
+    <div style="display: flex; justify-content: space-between;">
+      <!-- Imagen de la izquierda -->
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gabriela359&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      <!-- Imagen de la derecha -->
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gabriela359&layout=compact&langs_count=8&theme=algolia"/>
+    </div>
+  </a>
 </p>
 <hr />
 
