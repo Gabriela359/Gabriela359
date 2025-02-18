@@ -59,7 +59,7 @@
 
 </td>
 </tr>
-<img id='gif' align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTB0MHEzdDk1bjhpZTY3cWJsNnB4cDAybjN2N2ZvOGY4bHZ3dnNmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKU1Lzv3AURPVN6/giphy.gif" width="480">
+<img id='gif' align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTB0MHEzdDk1bjhpZTY3cWJsNnB4cDAybjN2N2ZvOGY4bHZ3dnNmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKU1Lzv3AURPVN6/giphy.gif" width="380">
 </table>
 
 
