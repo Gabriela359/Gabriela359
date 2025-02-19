@@ -71,7 +71,7 @@
     <!-- Contenedor para las imágenes -->
     <div style="display: flex; justify-content: space-between;">
       <!-- Imagen de la izquierda -->
-      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gabriela359&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gabriela359&show_icons=true&theme=algolia&include_all_commits=true&count_public=true"/>
       <!-- Imagen de la derecha -->
       <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gabriela359&layout=compact&langs_count=8&theme=algolia"/>
     </div>
