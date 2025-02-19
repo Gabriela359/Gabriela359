@@ -71,14 +71,14 @@
     <!-- Contenedor para las imágenes -->
     <div style="display: flex; justify-content: space-between;">
       <!-- Imagen de la izquierda -->
-      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gabriela359&show_icons=true&theme=algolia&include_all_commits=true&count_public=true"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriela359&show_icons=true&theme=algolia)
       <!-- Imagen de la derecha -->
       <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gabriela359&layout=compact&langs_count=8&theme=algolia"/>
     </div>
   </a>
 </p>
 <hr />
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif" width = 25px>  </picture> Activity Graph
 ![Gabriela's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gabriela359&custom_title=Gabriela's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
