@@ -65,17 +65,12 @@
 ------
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriela359&theme=algolia&show_icons=true) <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriela359&layout=compact&theme=algolia"
-  alt="Top Langs"
-  width="400"
-  height="200"
+<img alt="stats" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=Gabriela359&theme=algolia&show_icons=true"/> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriela359&layout=compact&theme=algolia" alt="Top Langs" width="48%"
 />
 
 
-<hr />
-
-
+------
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif" width = 25px>  </picture> Activity Graph
 ![Gabriela's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gabriela359&custom_title=Gabriela's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
