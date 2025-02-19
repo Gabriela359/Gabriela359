@@ -65,8 +65,8 @@
 ------
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 
-<img alt="stats" align="left" width="47%" height="150em" src="https://github-readme-stats.vercel.app/api?username=Gabriela359&theme=algolia&show_icons=true"/> 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriela359&layout=compact&theme=algolia" alt="Top Langs" width="47%" height="150em"
+<img alt="stats" align="left" width="47%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriela359&theme=algolia&show_icons=true"/> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriela359&layout=compact&theme=algolia" alt="Top Langs" width="47%" height="180em"
 />
 
 
