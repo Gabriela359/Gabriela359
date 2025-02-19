@@ -62,21 +62,17 @@
 <img id='gif' align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTB0MHEzdDk1bjhpZTY3cWJsNnB4cDAybjN2N2ZvOGY4bHZ3dnNmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKU1Lzv3AURPVN6/giphy.gif" width="300">
 </table>
 
-
 ------
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 
-<p align="">
-  <a href="https://github.com/Gabriela359">
-    <!-- Contenedor para las imágenes -->
-    <div style="display: flex; justify-content: space-between;">
-      <!-- Imagen de la izquierda -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriela359&show_icons=true&theme=algolia)](https://github.com/Gabriela 359/github-readme-stats)
-      <!-- Imagen de la derecha -->
-      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gabriela359&layout=compact&langs_count=8&theme=algolia"/>
-    </div>
-  </a>
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriela359&theme=algolia&show_icons=true) <img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriela359&layout=compact&theme=algolia"
+  alt="Top Langs"
+  width="400"
+  height="200"
+/>
+
+
 <hr />
 
 
