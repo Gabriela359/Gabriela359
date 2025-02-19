@@ -48,6 +48,7 @@
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabriela359&show_icons=true&theme=algolia"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriela359&layout=compact&theme=algolia" alt="Top Langs" width="50%" height="180em" />
 </div>
 
